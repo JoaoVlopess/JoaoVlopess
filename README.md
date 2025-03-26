@@ -1,5 +1,5 @@
 # Hi there, I'm João Victor Lopes 👋 
-<p align="left">🌱 Studying JavaScript
+<p align="left">🌱 Studying Node
 <p align="left">📧 contact me: joaovlopes.carvalho@gmail.com
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=JoaoVlopess&show_icons=true&theme=dark" alt="JoaoVlopess" />
 
